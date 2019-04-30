@@ -12,6 +12,6 @@ Install dependencies:
 `npm install`
 
 Start the service:
-`npm run`
+`npm start`
 
 Visit http://localhost:3000/api/videos?page=1&pageSize=10&qry=
